@@ -1,6 +1,6 @@
-# arasgungore.github.io
+# zinebagnaou.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://zinebagnaou.github.io). The website is built using the template from Aras Gungore.
 
 
 
@@ -16,5 +16,5 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Aras Güngöre**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@ZinebAgnaou](https://www.linkedin.com/in/zineb-agnaou/)
+* GitHub: [@ZinebAg](https://github.com/ZinebAg)
