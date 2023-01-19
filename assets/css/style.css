@@ -33,7 +33,7 @@ body::before {
 }
 
 a {
-  color: ce220f;
+  color: #fff;
 }
 
 a:hover {
@@ -254,7 +254,7 @@ svg {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: rgba(245, 228, 217, 0.7);
+  background: rgba(255, 255, 255, 0.7);
   transition: ease-in-out 0s;
   opacity: 0;
   visibility: hidden;
@@ -758,7 +758,7 @@ section .container {
 
 .services .icon-box:hover {
   background: #042e5f;
-  border-color: ce220f;
+  border-color: #fff;
 }
 
 .services .icon-box:hover .icon {
@@ -766,7 +766,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon i {
-  color: ce220f;
+  color: #fff;
 }
 
 .services .icon-box:hover .icon::before {
@@ -775,7 +775,7 @@ section .container {
 
 .services .icon-box:hover h4 a,
 .services .icon-box:hover p {
-  color: ce220f;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -940,7 +940,7 @@ section .container {
 # Contact
 --------------------------------------------------------------*/
 .contact .info-box {
-  color: #444444;
+  color: #f8f3f3;
   padding: 20px;
   width: 100%;
   background: #09203a;
@@ -993,7 +993,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: ce220f;
+  color: #fff;
 }
 
 .contact .php-email-form {
@@ -1042,7 +1042,7 @@ section .container {
   height: 24px;
   margin: 0 10px -6px 0;
   border: 3px solid ce220f;
-  border-top-color: #eee;
+  border-top-color: rgb(255, 255, 255);
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
 }
