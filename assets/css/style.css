@@ -117,8 +117,8 @@ svg {
 }
 
 #header h2 span {
-  color: #64b4e9;
-  border-bottom: 2px solid #64b4e9;
+  color: #7ebfd1;
+  border-bottom: 2px solid #7ebfd1;
   padding-bottom: 6px;
 }
 
@@ -147,7 +147,7 @@ svg {
 }
 
 #header .social-links a:hover {
-  background: #64b4e9;
+  background: #7ebfd1;
 }
 
 @media (max-width: 992px) {
@@ -193,7 +193,7 @@ svg {
 .nav-menu a {
   display: block;
   position: relative;
-  color: rgb(27, 24, 250);
+  color: rgb(250, 250, 251);
   font-size: 19px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -371,7 +371,7 @@ section.section-show {
 }
 
 section .container {
-  background: rgba(159, 190, 245, 0.12);
+  background: rgba(192, 3, 66, 0.12);
   padding: 30px;
 }
 
@@ -393,7 +393,7 @@ section .container {
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #851574;
+  color: #fff;
   font-family: "Poppins", sans-serif;
 }
 
@@ -402,7 +402,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #851574;
+  background: #fff;
   margin: 4px 10px;
 }
 
@@ -422,7 +422,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #171a7e;
+  color: rgb(49, 170, 81);
 }
 
 .about-me .content ul {
@@ -437,7 +437,7 @@ section .container {
 .about-me .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #181c82;
+  color: rgb(118, 11, 194);
 }
 
 .about-me .content p:last-child {
