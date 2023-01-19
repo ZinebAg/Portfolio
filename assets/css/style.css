@@ -371,7 +371,7 @@ section.section-show {
 }
 
 section .container {
-  background: rgba(192, 3, 66, 0.12);
+  background: rgba(252, 251, 252, 0.12);
   padding: 30px;
 }
 
@@ -437,7 +437,7 @@ section .container {
 .about-me .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: rgb(118, 11, 194);
+  color: rgb(254, 254, 254);
 }
 
 .about-me .content p:last-child {
