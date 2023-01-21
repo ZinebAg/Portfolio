@@ -1,6 +1,6 @@
 # zinebagnaou.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://zinebagnaou.github.io). The website is built using the template from Aras Gungore.
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://zinebag.github.io/Portfolio/). The website is built using the template from Aras Gungore.
 
 
 
