@@ -413,7 +413,7 @@ section .container {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: rgb(8, 17, 140);
 }
 
 /*--------------------------------------------------------------
@@ -437,7 +437,7 @@ section .container {
 .about-me .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: rgb(254, 254, 254);
+  color: rgb(227, 226, 237);
 }
 
 .about-me .content p:last-child {
